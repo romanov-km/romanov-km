@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 telegram @kmromanov
 
 <!---
 romanov-km/romanov-km is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
