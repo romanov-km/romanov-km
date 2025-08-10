@@ -1,8 +1,7 @@
 👋 Hi, I’m @romanov-km  
 💻 Fullstack Developer | Focused on Frontend  
-🎓 Graduate of Yandex Practicum Fullstack Program  
-🛠️ Tech Stack: JavaScript, React, Node.js, Express, NestJS  
-📍 Open to work | Looking for frontend roles  
+🛠️ Tech Stack: JavaScript, React, Next.js Node.js, Express, NestJS  
+📍 Open to work | Looking for roles  
 📫 Telegram: [@kmromanov](https://t.me/kmromanov)
 
 <!---
